@@ -13,7 +13,7 @@ const endpoints: Record<TableName, string> = {
 };
 
 const TABLE_LABELS: Record<TableName, string> = {
-  quiz_users: "Quiz Users",
+  quiz_users: "Users",
   seminar_feedback_responses: "Seminar Feedback",
   quiz_responses: "Quiz Responses",
 };
